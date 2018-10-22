@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2018-10-22T21:56:23" hostname="DESKTOP-N0UU5UH" time="0.054">
+  <properties/>
+  <testcase name="workingSelectionSort" classname="test.java.AlgoTest" time="0.042"/>
+  <testcase name="HeapSortForOneInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="workingHeapSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="InsertionSortForNull" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="HeapSortForNull" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="MergeSortForOneInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="HeapSortForAlreadySortedItems" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="SelectionSortForNull" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="SelectionSortForOneInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="InsertionSortForOneInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="BubbleSortForNull" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="BubbleSortForOneInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="InsertionSortForAlreadySortedItems" classname="test.java.AlgoTest" time="0.003"/>
+  <testcase name="QuickSortForNull" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="MergeSortForAlreadySortedItems" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="SelectionSortForAlreadySortedItems" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="workingInsertionSort" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="workingBubbleSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="BubbleSortForAlreadySortedItems" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="workingQuickSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="QuickSortForOneInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="workingMergeSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="MergeSortForNull" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="QuickSortForAlreadySortedItems" classname="test.java.AlgoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
